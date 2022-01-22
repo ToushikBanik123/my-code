@@ -25,8 +25,8 @@ int main()
 				if (first>second)
 				{
 					break;
-					}
-					}
-					cout<<"your number is not present";
-					return 0;
-					}
+        	}
+	}
+	cout<<"your number is not present";
+	return 0;
+}
